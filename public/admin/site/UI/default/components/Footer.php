@@ -12,7 +12,7 @@ Footer component file
 <div id="footer" class="footer bg-dark">
     <div class="">
         <div class="footer-text">
-            <pre class="lead small text-light">&copy 2018 Black Mesa Inc. All rights reserved</pre>
+            <pre class="lead small text-light">&copy 2022 Royal Alberta Credit Union LLC. All rights reserved</pre>
             <?php addModuleDescriptor("footer");  ?>
         </div>
 
